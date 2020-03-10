@@ -25,6 +25,14 @@
             return value1 + value2 + " much fun";
         },
 
+        Boo: (value) => {
+            return value =="true"
+        },
+
+        HeyRay: (value) => {
+            return Value1 = 1,2,3
+        }
+
     };
     
     export default functions;

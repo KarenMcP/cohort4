@@ -1,5 +1,5 @@
 import functions from './functions.js';
-
+import{adding,subtracting,mutliplyoing,dividing}from './calculator';
 // **********
 //
 // Add the event listeners
